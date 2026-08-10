@@ -73,8 +73,8 @@ Aynı seçim yapılırsa oyun berabere sonuçlanır.
 
 ```
 Rock-Paper-Scissors/
-│
-├── tas_kagit_makas.py
+│   
+├── tas_kagit_makas.py (Türkçesi de İngilizcesi de var.)
 └── README.md
 ```
 
@@ -156,7 +156,7 @@ If both players choose the same option, the round ends in a draw.
 ```
 Rock-Paper-Scissors/
 │
-├── rock_paper_scissors.py
+├── rock_paper_scissors.py (It is available in both Turkish and English.)
 └── README.md
 ```
 
