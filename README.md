@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Addu!
+# 👋 Hello, I'm Coder Boy!
 
 🇬🇧 **English**
 
-Hello! My nickname is **Addu**.
+Hello! My nickname is **Coder Boy (Coder)**.
 
 I'm passionate about programming, especially **Python**, **C**, and **C++**. I enjoy building projects, experimenting with new ideas, and learning something new every day.
 
@@ -38,11 +38,11 @@ Here you'll find games, algorithms, automation tools, experiments, and many othe
 
 ---
 
-# 👋 Merhaba, ben Addu!
+# 👋 Merhaba, ben Coder Boy!
 
 🇹🇷 **Türkçe**
 
-Merhaba! Benim lakabım **Addu**.
+Merhaba! Benim lakabım **Coder Boy (Yazılımcı)**.
 
 Özellikle **Python**, **C** ve **C++** ile programlama yapmayı seviyorum. Yeni fikirler geliştirmek, projeler üretmek ve her gün yeni bir şey öğrenmek benim için büyük bir keyif.
 
